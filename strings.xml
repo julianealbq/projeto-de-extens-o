@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Controle de Vendas</string>
+    <string name="btnAdicionar">Adicionar Produto</string>
+</resources>
